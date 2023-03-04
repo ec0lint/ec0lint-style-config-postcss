@@ -1,0 +1,38 @@
+{
+  "name": "ec0lint-style-config-tailwindcss",
+  "version": "0.0.1",
+  "description": "tailwindcss shareable config for ec0lint-style",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "scss.js"
+  ],
+  "scripts": {
+    "lint": "eslint . --ext .js"
+  },
+  "devDependencies": {
+    "@epcor/eslint-config": "^0.0.2",
+    "@epcor/prettier-config": "^0.0.1",
+    "eslint": "^8.7.0",
+    "prettier": "^2.5.1"
+  },
+  "peerDependencies": {
+    "ec0lint-style": ">=2.1.1",
+    "tailwindcss": ">=2.2.16"
+  },
+  "keywords": [
+    "ec0lint-style",
+    "ec0lint-style-config",
+    "tailwindcss"
+  ],
+  "author": "ec0lint",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ec0lint/ec0lint-style-config-tailwindcss.git"
+  },
+  "homepage": "https://github.com/ec0lint/ec0lint-style-config-tailwindcss#readme",
+  "bugs": {
+    "url": "https://github.com/ec0lint/ec0lint-style-config-tailwindcss/issues"
+  },
+  "license": "MIT"
+}
