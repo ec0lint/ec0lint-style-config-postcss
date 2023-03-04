@@ -1,7 +1,7 @@
 {
-  "name": "ec0lint-style-config-tailwindcss",
-  "version": "0.0.2",
-  "description": "tailwindcss shareable config for ec0lint-style",
+  "name": "ec0lint-style-config-postcss",
+  "version": "0.0.1",
+  "description": "postcss shareable config for ec0lint-style",
   "main": "index.js",
   "files": [
     "index.js",
@@ -23,6 +23,7 @@
   "keywords": [
     "ec0lint-style",
     "ec0lint-style-config",
+    "postcss",
     "tailwindcss"
   ],
   "author": "ec0lint",
@@ -30,9 +31,9 @@
     "type": "git",
     "url": "git+https://github.com/ec0lint/ec0lint-style-config-tailwindcss.git"
   },
-  "homepage": "https://github.com/ec0lint/ec0lint-style-config-tailwindcss#readme",
+  "homepage": "https://github.com/ec0lint/ec0lint-style-config-postcss#readme",
   "bugs": {
-    "url": "https://github.com/ec0lint/ec0lint-style-config-tailwindcss/issues"
+    "url": "https://github.com/ec0lint/ec0lint-style-config-postcss/issues"
   },
   "license": "MIT",
   "dependencies": {
